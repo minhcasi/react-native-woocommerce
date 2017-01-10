@@ -130,7 +130,6 @@ WooCommerceAPI.prototype._getOAuth = function () {
     if (-1 < ['v1', 'v2'].indexOf(this.version)) {
         data.last_ampersand = false;
     }
-
     return new OAuth(data);
 };
 

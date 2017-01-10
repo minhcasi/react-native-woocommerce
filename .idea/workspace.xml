@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51aa7e94-bffc-443e-9e30-d8631be533aa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/Product.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/ProductItem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/RootRouter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/index.android.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Api.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Config.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Readme.md" afterPath="$PROJECT_DIR$/Readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WooCommerceAPI.js" afterPath="$PROJECT_DIR$/WooCommerceAPI.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/Product.js" afterPath="$PROJECT_DIR$/example/Product.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/ProductItem.js" afterPath="$PROJECT_DIR$/example/ProductItem.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/RootRouter.js" afterPath="$PROJECT_DIR$/example/RootRouter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/index.ios.js" afterPath="$PROJECT_DIR$/example/index.ios.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/ios/example/Info.plist" afterPath="$PROJECT_DIR$/example/ios/example/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/package.json" afterPath="$PROJECT_DIR$/example/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,43 +39,28 @@
         <entry file="file://$PROJECT_DIR$/example/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
+              <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WooCommerceAPI.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/WooCommerce/WooCommerceAPI.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="559">
+              <caret line="229" column="13" lean-forward="false" selection-start-line="229" selection-start-column="13" selection-end-line="229" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppDelegate.m" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/ios/example/AppDelegate.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-260">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="1" column="35" lean-forward="false" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Api.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Api.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding>
-                <marker date="1484021697000" expanded="true" signature="7:80" ph="..." />
-                <marker date="1484021697000" expanded="true" signature="111:304" ph="{&quot;url&quot;: Constants.URL.root...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.ios.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/example/index.ios.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding>
-                <element signature="e#89#130#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -76,9 +68,51 @@
       <file leaf-file-name="Readme.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+            <state relative-caret-position="494">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="3" column="65" lean-forward="false" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/mstore download/MStore 2.2/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-156">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordpressApi.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../BeoNews/App/Services/WordpressApi.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="52" column="36" lean-forward="false" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Api.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/WooCommerce/Api.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#46#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,138 +120,19 @@
       <file leaf-file-name="Product.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/Product.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="47" column="16" lean-forward="false" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
-              <folding>
-                <element signature="e#15#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../BeoNews Release/BeoUI 2/App/Components/Views/WooCommerce/Index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="14" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
-              <folding>
-                <marker date="1476032536000" expanded="true" signature="22:594" ph="..." />
-                <marker date="1476032536000" expanded="true" signature="702:4126" ph="{...}" />
-                <marker date="1476032536000" expanded="true" signature="727:1108" ph="{...}" />
-                <marker date="1476032536000" expanded="true" signature="796:1091" ph="{...}" />
-                <marker date="1476032536000" expanded="true" signature="1024:1071" ph="{...}" />
-                <marker date="1476032536000" expanded="true" signature="1125:1230" ph="{...}" />
-                <marker date="1476032536000" expanded="true" signature="1177:1214" ph="{...}" />
-                <marker date="1476032536000" expanded="true" signature="1247:1349" ph="{...}" />
-                <marker date="1476032536000" expanded="true" signature="1299:1333" ph="{...}" />
-                <marker date="1476032536000" expanded="true" signature="1371:1775" ph="{...}" />
-                <marker date="1476032536000" expanded="true" signature="1479:1510" ph="{...}" />
-                <marker date="1476032536000" expanded="true" signature="1624:1664" ph="{...}" />
-                <marker date="1476032536000" expanded="true" signature="1698:1737" ph="{...}" />
-                <marker date="1476032536000" expanded="true" signature="1801:2002" ph="{...}" />
-                <marker date="1476032536000" expanded="true" signature="1811:1970" ph="//..." />
-                <marker date="1476032536000" expanded="true" signature="2020:2683" ph="{...}" />
-                <marker date="1476032536000" expanded="true" signature="2102:2133" ph="{...}" />
-                <marker date="1476032536000" expanded="true" signature="2205:2277" ph="{...}" />
-                <marker date="1476032536000" expanded="true" signature="2313:2675" ph="{...}" />
-                <marker date="1476032536000" expanded="true" signature="2433:2659" ph="{...}" />
-                <marker date="1476032536000" expanded="true" signature="2714:2783" ph="{...}" />
-                <marker date="1476032536000" expanded="true" signature="2804:2837" ph="{...}" />
-                <marker date="1476032536000" expanded="true" signature="2862:2955" ph="{...}" />
-                <marker date="1476032536000" expanded="true" signature="2970:4124" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProductItem.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example/ProductItem.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <element signature="e#15#54#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="156">
+              <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Config.js">
+        <entry file="file://$PROJECT_DIR$/example/WooCommerce/Config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-              <folding>
-                <marker date="1484021680000" expanded="true" signature="33:244" ph="{...}" />
-                <marker date="1484021680000" expanded="true" signature="44:86" ph="{&quot;root&quot;: 'http://beostore.io'...}" />
-                <marker date="1484021680000" expanded="true" signature="98:242" ph="{&quot;ConsumeKey&quot;: 'ck_223378193c406cd3fa5124fb4532a0cc7c22bf66'...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WooCommerceAPI.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WooCommerceAPI.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding>
-                <marker date="1475038462000" expanded="true" signature="82:147" ph="/** WooCommerce REST API wrapper ...*/" />
-                <marker date="1475038462000" expanded="true" signature="177:619" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="222:269" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="313:364" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="394:453" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="486:548" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="621:677" ph="/** Set default options ...*/" />
-                <marker date="1475038462000" expanded="true" signature="740:1252" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="1255:1345" ph="/** Normalize query string for oAuth ...*/" />
-                <marker date="1475038462000" expanded="true" signature="1410:2059" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="1484:1511" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="1661:1692" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="1739:2006" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="1773:1816" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="2062:2135" ph="/** Get URL ...*/" />
-                <marker date="1475038462000" expanded="true" signature="2191:2660" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="2429:2563" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="2586:2641" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="2663:2706" ph="/** Get OAuth ...*/" />
-                <marker date="1475038462000" expanded="true" signature="2756:3056" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="2773:2929" ph="{&quot;signature_method&quot;: 'HMAC-SHA256'...}" />
-                <marker date="1475038462000" expanded="true" signature="2793:2882" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="2981:3025" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="3059:3114" ph="/** Join key object value to string by separator ...*/" />
-                <marker date="1475038462000" expanded="true" signature="3173:3358" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="3218:3318" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="3257:3312" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="3360:3526" ph="/** Do requests ...*/" />
-                <marker date="1475038462000" expanded="true" signature="3607:5307" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="3665:3975" ph="{&quot;url&quot;: url...}" />
-                <marker date="1475038462000" expanded="true" signature="3790:3969" ph="{&quot;Content-Type&quot;: 'application/json'...}" />
-                <marker date="1475038462000" expanded="true" signature="3998:4415" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="4034:4187" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="4060:4176" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="4193:4329" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="4221:4318" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="4360:4409" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="4425:4566" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="4474:4558" ph="{&quot;url&quot;: url...}" />
-                <marker date="1475038462000" expanded="true" signature="4836:4893" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="4899:4983" ph="//..." />
-                <marker date="1475038462000" expanded="true" signature="5014:5090" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="5033:5084" ph="{&quot;Cache-Control&quot;: 'no-cache'...}" />
-                <marker date="1475038462000" expanded="true" signature="5169:5216" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="5218:5261" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="5310:5421" ph="/** GET requests ...*/" />
-                <marker date="1475038462000" expanded="true" signature="5489:5551" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="5554:5693" ph="/** POST requests ...*/" />
-                <marker date="1475038462000" expanded="true" signature="5762:5825" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="5828:5966" ph="/** PUT requests ...*/" />
-                <marker date="1475038462000" expanded="true" signature="6034:6096" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="6099:6213" ph="/** DELETE requests ...*/" />
-                <marker date="1475038462000" expanded="true" signature="6278:6343" ph="{...}" />
-                <marker date="1475038462000" expanded="true" signature="6346:6461" ph="/** OPTIONS requests ...*/" />
-                <marker date="1475038462000" expanded="true" signature="6527:6593" ph="{...}" />
-              </folding>
+            <state relative-caret-position="338">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -227,7 +142,14 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>toolbar</find>
+      <find>viewpro</find>
       <find>Actions</find>
+      <find>oauth-1.0a</find>
+      <find>Spinner</find>
+      <find>get</find>
+      <find>_request</find>
+      <find>c22bf66</find>
+      <find>request ur</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -236,13 +158,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/Config.js" />
         <option value="$PROJECT_DIR$/Api.js" />
+        <option value="$PROJECT_DIR$/example/ProductDetails.js" />
         <option value="$PROJECT_DIR$/example/ProductItem.js" />
-        <option value="$PROJECT_DIR$/example/Product.js" />
+        <option value="$PROJECT_DIR$/example/RootRouter.js" />
         <option value="$PROJECT_DIR$/example/index.ios.js" />
         <option value="$PROJECT_DIR$/example/index.android.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/WooCommerceAPI.js" />
+        <option value="$PROJECT_DIR$/example/package.json" />
+        <option value="$PROJECT_DIR$/example/Product.js" />
+        <option value="$PROJECT_DIR$/example/WooCommerce/Config.js" />
+        <option value="$PROJECT_DIR$/example/WooCommerce/WooCommerceAPI.js" />
         <option value="$PROJECT_DIR$/Readme.md" />
       </list>
     </option>
@@ -255,7 +183,6 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/example/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -296,6 +223,64 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="react-native-woocommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-native-woocommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-native-woocommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WooCommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-native-woocommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-native-woocommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ios" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-native-woocommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-native-woocommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ios" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -393,33 +378,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484021400446</updated>
-      <workItem from="1484021401683" duration="1322000" />
+      <workItem from="1484021401683" duration="4852000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1322000" />
+    <option name="totallyTimeSpent" value="4852000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1482" height="970" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18548939" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18548939" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16856492" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,109 +431,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="35" lean-forward="false" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding>
-            <marker date="1484021680000" expanded="true" signature="33:244" ph="{...}" />
-            <marker date="1484021680000" expanded="true" signature="44:86" ph="{&quot;root&quot;: 'http://beostore.io'...}" />
-            <marker date="1484021680000" expanded="true" signature="98:242" ph="{&quot;ConsumeKey&quot;: 'ck_223378193c406cd3fa5124fb4532a0cc7c22bf66'...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WooCommerceAPI.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <marker date="1475038462000" expanded="true" signature="82:147" ph="/** WooCommerce REST API wrapper ...*/" />
-            <marker date="1475038462000" expanded="true" signature="177:619" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="222:269" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="313:364" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="394:453" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="486:548" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="621:677" ph="/** Set default options ...*/" />
-            <marker date="1475038462000" expanded="true" signature="740:1252" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="1255:1345" ph="/** Normalize query string for oAuth ...*/" />
-            <marker date="1475038462000" expanded="true" signature="1410:2059" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="1484:1511" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="1661:1692" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="1739:2006" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="1773:1816" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="2062:2135" ph="/** Get URL ...*/" />
-            <marker date="1475038462000" expanded="true" signature="2191:2660" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="2429:2563" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="2586:2641" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="2663:2706" ph="/** Get OAuth ...*/" />
-            <marker date="1475038462000" expanded="true" signature="2756:3056" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="2773:2929" ph="{&quot;signature_method&quot;: 'HMAC-SHA256'...}" />
-            <marker date="1475038462000" expanded="true" signature="2793:2882" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="2981:3025" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="3059:3114" ph="/** Join key object value to string by separator ...*/" />
-            <marker date="1475038462000" expanded="true" signature="3173:3358" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="3218:3318" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="3257:3312" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="3360:3526" ph="/** Do requests ...*/" />
-            <marker date="1475038462000" expanded="true" signature="3607:5307" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="3665:3975" ph="{&quot;url&quot;: url...}" />
-            <marker date="1475038462000" expanded="true" signature="3790:3969" ph="{&quot;Content-Type&quot;: 'application/json'...}" />
-            <marker date="1475038462000" expanded="true" signature="3998:4415" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="4034:4187" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="4060:4176" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="4193:4329" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="4221:4318" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="4360:4409" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="4425:4566" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="4474:4558" ph="{&quot;url&quot;: url...}" />
-            <marker date="1475038462000" expanded="true" signature="4836:4893" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="4899:4983" ph="//..." />
-            <marker date="1475038462000" expanded="true" signature="5014:5090" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="5033:5084" ph="{&quot;Cache-Control&quot;: 'no-cache'...}" />
-            <marker date="1475038462000" expanded="true" signature="5169:5216" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="5218:5261" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="5310:5421" ph="/** GET requests ...*/" />
-            <marker date="1475038462000" expanded="true" signature="5489:5551" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="5554:5693" ph="/** POST requests ...*/" />
-            <marker date="1475038462000" expanded="true" signature="5762:5825" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="5828:5966" ph="/** PUT requests ...*/" />
-            <marker date="1475038462000" expanded="true" signature="6034:6096" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="6099:6213" ph="/** DELETE requests ...*/" />
-            <marker date="1475038462000" expanded="true" signature="6278:6343" ph="{...}" />
-            <marker date="1475038462000" expanded="true" signature="6346:6461" ph="/** OPTIONS requests ...*/" />
-            <marker date="1475038462000" expanded="true" signature="6527:6593" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Api.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <marker date="1484021697000" expanded="true" signature="7:80" ph="..." />
-            <marker date="1484021697000" expanded="true" signature="111:304" ph="{&quot;url&quot;: Constants.URL.root...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -611,49 +493,215 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../BeoNews Release/BeoUI 2/App/Components/Views/Navigation/SideMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../BeoNews Release/BeoUI 2/App/Components/Views/Navigation/MenuScale.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-416">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/ProductDetails.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3224">
+          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/example/ProductItem.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="277">
+          <caret line="12" column="55" lean-forward="false" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
           <folding>
-            <element signature="e#15#54#0" expanded="true" />
+            <element signature="e#15#54#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/Product.js">
+    <entry file="file://$PROJECT_DIR$/example/RootRouter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="47" column="16" lean-forward="false" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+        <state relative-caret-position="286">
+          <caret line="11" column="89" lean-forward="false" selection-start-line="11" selection-start-column="89" selection-end-line="11" selection-end-column="89" />
           <folding>
-            <element signature="e#15#54#0" expanded="true" />
+            <element signature="e#15#54#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/index.ios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#94#135#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/example/index.android.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="e#80#121#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../BeoNews Release/BeoUI 2/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/node_modules/oauth-1.0a/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/node_modules/oauth-1.0a/oauth-1.0a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="42" column="38" lean-forward="false" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/mstore download/MStore 2.2/app/services/WooCommerceAPI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="11" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="293" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/mstore download/MStore 2.2/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/Product.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../BeoNews Release/BeoUI 2/App/Common/Constants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="25" column="69" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="25" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/WooCommerce/Api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WooCommerceAPI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="239" column="2" lean-forward="true" selection-start-line="239" selection-start-column="2" selection-end-line="239" selection-end-column="2" />
+          <folding>
+            <marker date="1484024011000" expanded="true" signature="5168:5215" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../BeoNews/App/Services/WordpressApi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="52" column="36" lean-forward="false" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/WooCommerce/Config.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/WooCommerce/WooCommerceAPI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="229" column="13" lean-forward="false" selection-start-line="229" selection-start-column="13" selection-end-line="229" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/ios/example/AppDelegate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-260">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+        <state relative-caret-position="494">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/index.ios.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#89#130#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="78">
+          <caret line="3" column="65" lean-forward="false" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+          <folding />
         </state>
       </provider>
     </entry>

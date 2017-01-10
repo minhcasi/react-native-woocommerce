@@ -17,11 +17,9 @@ import {
 	DeviceEventEmitter
 } from "react-native";
 import ProductItem from "./ProductItem";
-import Api from "./../Api";
+import Api from "./WooCommerce/Api";
 import css from "./styles/style";
 import product from "./styles/product";
-import Spinner from "react-native-spinkit";
-
 var offset = 0;
 var offsetHeader = 100;
 var beta = 50;
@@ -74,11 +72,7 @@ export default class Product extends Component {
 		offset = currentOffset;
 	}
 
-	componentDidMount() {
-		// check internet connecting
-		// NetInfo.isConnected.fetch().done(isConnected => {
-		//     this.setState({isOnline: isConnected});
-		// });
+	componentWillMount() {
 		this.fetchData();
 	}
 
@@ -137,13 +131,6 @@ export default class Product extends Component {
 						dataSource={this.state.dataSource}
 						renderRow={this.renderRow}>
 					</ListView>
-
-					<View style={css.spinner}>
-						<Spinner isVisible={this.state.isLoading}
-						         size={40}
-						         type="Circle"
-						         color="#1CAADE"/>
-					</View>
 				</ScrollView>
 			</View>
 		);

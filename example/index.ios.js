@@ -1,17 +1,21 @@
 /**
  * Sample React Native App
  * https://github.com/facebook/react-native
- * @flow
  */
 
+'use strict';
 import React, { Component } from 'react';
+import { AppRegistry,  StatusBar} from 'react-native';
 
+StatusBar.setBarStyle('light-content');
 import Product from './Product';
-export default class example extends Component {
-  render() {
-    return (
-      <Product />
-    );
-  }
+
+class example extends Component {
+    render() {
+        return (
+            <Product />
+        );
+    }
 }
+
 AppRegistry.registerComponent('example', () => example);
