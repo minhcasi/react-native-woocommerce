@@ -3,7 +3,7 @@ Support Connect to WooCommerce Rest API.
 You need to turn on the option from WooCommerce setting: Enable the REST API
 
 DEMO:
-![DEMO](demo.gif)
+![](demo.gif)
 
 
 Running example:
@@ -19,4 +19,4 @@ You can check more premium product from:
 1. BeoUI - beostore.io: the complete front-end mobile UI for React Native
 2. BeoStore - mstore.io: the full application for mobile e-commerce
 
-![BEOUI](http://beostore.io/wp-content/uploads/2015/05/demo.gif)
+![](demo-2.gif)
