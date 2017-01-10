@@ -19,8 +19,10 @@ react-native run-ios  // run the iOs simulater
 react-native run-anrdoid // run on Android simulator
 ```
 
+
 **You can check more premium product from:**
 1. BeoUI - http://beostore.io: the complete front-end mobile UI for React Native
+
 2. BeoStore - http://mstore.io: the full application for mobile e-commerce
 
 ![](demo-2.gif)
