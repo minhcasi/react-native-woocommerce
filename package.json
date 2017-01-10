@@ -1,0 +1,7 @@
+{
+  "name": "react-native-woocommerce",
+  "dependencies": {
+    "react-native-router-flux": "^3.37.0",
+    "react-native-spinkit": "^1.0.0"
+  }
+}
