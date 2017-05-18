@@ -6,7 +6,7 @@ var Api = new WooCommerceAPI({
     consumerKey: Constants.Keys.ConsumeKey,
     consumerSecret: Constants.Keys.ConsumerSecret,
     wp_api: true,
-    version: 'wc/v1',
+    version: 'wc/v2',
     queryStringAuth: true
 });
 
