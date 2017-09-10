@@ -16,7 +16,7 @@ You need to turn on the option from WooCommerce setting: Enable the REST API
 ```
 run yarn install
 react-native run-ios  // run the iOs simulater
-react-native run-anrdoid // run on Android simulator
+react-native run-android // run on Android simulator
 ```
 
 
